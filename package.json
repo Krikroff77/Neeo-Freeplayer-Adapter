@@ -1,0 +1,38 @@
+{
+  "name": "freebox-player-v6",
+  "version": "0.2.0",
+  "description": "NEEO driver for Frebbox Player V6 - Free SAS (French ISP)",
+  "repository": {
+    "url": "https://github.com/krikroff77/neeo-freeplayer-adapter"
+  },
+  "keywords": [
+    "freebox",
+    "freeplayer",
+    "neeo",
+    "driver"
+  ],
+  "author": {
+    "name": "Jean-Christophe Vermandé"
+  },
+	"licenses": [
+		{
+			"type": "MIT"
+		}
+	],
+  "private": false,
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "mdns-js": "^0.5.3",
+    "neeo-sdk": "^0.47.8"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.4"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "main": "lib/main.js",
+  "scripts": {
+    "server:freeplayer": "node lib/main.js"
+  }
+}

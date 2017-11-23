@@ -1,0 +1,18 @@
+{
+    "neeo": {
+        "brainIp" : "192.168.1.39",
+        "driverPort" : 6336
+    },
+    "players": [
+        {
+            "name": "Player salon",
+            "code": "97851307",
+            "host": "192.168.1.110"
+        },
+        {
+            "name": "player chambre",
+            "code": "83861355",
+            "host": "192.168.1.111"
+        }
+      ]
+}
