@@ -13,10 +13,10 @@ To find out more about NEEO, the Brain and "The Thinking Remote" checkout https:
 * Install via [npm](https://www.npmjs.org)
 
 ```
-$ npm install fibaro-scenes-neeo -g
+$ npm install neeo-freeplayer-adapter -g
 ```
 
-Platform-specific install note available from [`INSTALL.md`](https://github.com/krikroff77/neeo-freeplayer-adapter/blob/master/INSTALL.md)
+Platform-specific install note available from [`INSTALL.md`](https://github.com/krikroff77/Neeo-Freeplayer-Adapter/blob/master/INSTALL.md)
 
 
 Example usage
@@ -69,7 +69,7 @@ Example "settings.json"
 Changelog
 ---------
 
-See [`CHANGELOG.md`](https://github.com/krikroff77/neeo-freeplayer-adapter/blob/master/CHANGELOG.md)
+See [`CHANGELOG.md`](https://github.com/krikroff77/Neeo-Freeplayer-Adapter/blob/master/CHANGELOG.md)
 
 ## Known Issues
-For a list of known issues, please see the [issues page](https://github.com/krikroff77/neeo-freeplayer-adapter/issues "GitHub issues page")
+For a list of known issues, please see the [issues page](https://github.com/krikroff77/Neeo-Freeplayer-Adapter/issues "GitHub issues page")

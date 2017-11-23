@@ -1,9 +1,9 @@
 {
-  "name": "freebox-player-v6",
+  "name": "neeo-freeplayer-adapter",
   "version": "0.2.0",
   "description": "NEEO driver for Frebbox Player V6 - Free SAS (French ISP)",
   "repository": {
-    "url": "https://github.com/krikroff77/neeo-freeplayer-adapter"
+    "url": "https://github.com/krikroff77/Neeo-Freeplayer-Adapter"
   },
   "keywords": [
     "freebox",
