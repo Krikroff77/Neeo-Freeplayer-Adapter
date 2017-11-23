@@ -1,5 +1,7 @@
 # Freebox V6 Player driver for NEEO Remote
 
+[![license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/krikroff77/Neeo-Freeplayer-Adapter/blob/master/LICENSE)
+
 To find out more about Free SAS (French ISP) checkout http://www.free.fr
 
 To find out more about NEEO, the Brain and "The Thinking Remote" checkout https://neeo.com/.
