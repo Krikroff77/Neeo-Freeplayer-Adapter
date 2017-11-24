@@ -14,11 +14,11 @@
   "author": {
     "name": "Jean-Christophe Vermandé"
   },
-	"licenses": [
-		{
-			"type": "MIT"
-		}
-	],
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
   "private": false,
   "dependencies": {
     "bluebird": "^3.5.1",
