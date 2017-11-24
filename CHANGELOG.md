@@ -1,6 +1,9 @@
 Changelog
 =========
 
+##### 0.2.1
+- Double-click detection for cursor up/down controls to scroll more faster
+
 ##### 0.2.0
 - First public release
 - All remote commands are supported, capabilities: Power, Volume, Special (Menu, Back), Channel Zapper, Color Buttons, Controlpad, Numpad
