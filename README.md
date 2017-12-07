@@ -53,12 +53,12 @@ Example "settings.json"
     "players": [
         {
             "name": "Player salon",
-            "code": "HC2-008080",
+            "code": "98654578",
             "host": "192.168.1.110"
         },
         {
             "name": "player chambre",
-            "code": "HC2-008080",
+            "code": "32784598",
             "host": "192.168.1.111"
         }
       ]
