@@ -25,7 +25,8 @@
     "neeo-sdk": "^0.47.8"
   },
   "devDependencies": {
-    "jshint": "^2.9.4"
+    "jshint": "^2.9.4",
+    "mocha": "^3.5.0"
   },
   "engines": {
     "node": ">=8.0.0"
