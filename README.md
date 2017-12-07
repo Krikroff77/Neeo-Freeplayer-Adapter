@@ -57,7 +57,7 @@ Example "settings.json"
             "host": "192.168.1.110"
         },
         {
-            "name": "player chambre",
+            "name": "Player chambre",
             "code": "32784598",
             "host": "192.168.1.111"
         }
